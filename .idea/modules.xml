@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BEDU.iml" filepath="$PROJECT_DIR$/.idea/BEDU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-02/Ejemplo-02/Ejemplo-02.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-02/Ejemplo-02/Ejemplo-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-02/Reto-01/Reto-01.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-02/Reto-01/Reto-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-03/Reto-02/Reto-02.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-03/Reto-02/Reto-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-07/Reto-02/Reto-10.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-07/Reto-02/Reto-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-06/Reto-01/Reto-11.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-06/Reto-01/Reto-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-01/Reto-01/Reto-12.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-01/Reto-01/Reto-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-05/Reto-02/Reto-13.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-05/Reto-02/Reto-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-04/Reto-01/Reto-14.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-04/Reto-01/Reto-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-03/Reto-01/Reto-2.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-03/Reto-01/Reto-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-01/Reto-02/Reto-3.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-01/Reto-02/Reto-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-08/Reto-01/Reto-4.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-08/Reto-01/Reto-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-05/Reto-01/Reto-5.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-05/Reto-01/Reto-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-07/Reto-01/Reto-6.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-07/Reto-01/Reto-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-04/Reto-02/Reto-7.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-04/Reto-02/Reto-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-08/Reto-02/Reto-8.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-08/Reto-02/Reto-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-06/Reto-02/Reto-9.iml" filepath="$PROJECT_DIR$/Java-Standard-Edition-1/Sesion-06/Reto-02/Reto-9.iml" />
+    </modules>
+  </component>
+</project>
